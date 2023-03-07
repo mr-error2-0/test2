@@ -166,7 +166,7 @@ def main_apv():
 
         
 
-    r1=requests.get("https://github.com/mr-error2-0/evan/blob/main/approved.txt").text
+    r1=requests.get("https://github.com/mr-error2-0/test2/blob/main/aproveerror.txt").text
 
     if key1 in r1:
 
